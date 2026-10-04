@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [High Water](./practice/python/high-water) | Python | Easy | 2026-10-04 |
 
 <!-- datadriven:index:end -->
