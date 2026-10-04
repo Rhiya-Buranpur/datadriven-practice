@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Account Manager](./practice/python/the-account-manager) | Python | Easy | 2026-10-04 |
 | [Above the Title](./practice/python/above-the-title) | Python | Medium | 2026-10-04 |
 | [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [High Water](./practice/python/high-water) | Python | Easy | 2026-10-04 |
