@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Throttle Wall](./practice/python/the-throttle-wall) | Python | Hard | 2026-10-06 |
 | [The Throttle Ceiling](./practice/python/the-throttle-ceiling) | Python | Medium | 2026-10-05 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-10-04 |
 | [The Account Manager](./practice/python/the-account-manager) | Python | Easy | 2026-10-04 |
