@@ -1,6 +1,6 @@
 # yash-belekar's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-13 |
 | [The Throttle Wall](./practice/python/the-throttle-wall) | Python | Hard | 2026-10-06 |
 | [The Throttle Ceiling](./practice/python/the-throttle-ceiling) | Python | Medium | 2026-10-05 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-10-04 |
