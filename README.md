@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yash-belekar), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-10-14 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-13 |
 | [The Throttle Wall](./practice/python/the-throttle-wall) | Python | Hard | 2026-10-06 |
 | [The Throttle Ceiling](./practice/python/the-throttle-ceiling) | Python | Medium | 2026-10-05 |
